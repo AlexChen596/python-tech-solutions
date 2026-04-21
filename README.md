@@ -10,12 +10,11 @@
 
 ## 📋 目录
 
-1. [What does the "yield" keyword do in Python?](solutions/001-python-yield-keyword.md)
-2. [What does if __name__ == "__main__": do?](solutions/002-python-name-main-guard.md)
-3. [Does Python have a ternary conditional operator?](solutions/003-python-ternary-conditional.md)
-4. [What are metaclasses in Python?](solutions/004-python-metaclasses.md)
-5. [How do I check whether a file exists without exceptions?](solutions/005-python-check-file-exists.md)
-
+1. [What does the "yield" keyword do in Python?](001-python-yield-keyword.md)
+2. [What does if __name__ == "__main__": do?](002-python-name-main-guard.md)
+3. [Does Python have a ternary conditional operator?](003-python-ternary-conditional.md)
+4. [What are metaclasses in Python?](004-python-metaclasses.md)
+5. [How do I check whether a file exists without exceptions?](005-python-check-file-exists.md)
 
 ---
 
